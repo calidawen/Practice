@@ -3,3 +3,4 @@ print('test')
 
 print('open side')
 print('merge')
+print('main')
