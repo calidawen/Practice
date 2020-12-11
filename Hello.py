@@ -7,3 +7,4 @@ print('merge')
 print('side')
 print('main')
 
+print('new')
